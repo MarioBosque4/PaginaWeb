@@ -1,0 +1,10 @@
+01
+Guatemala
+02
+Quetzaltenango
+03
+Chimaltenango
+04
+Suchitepequez
+05
+Peten
