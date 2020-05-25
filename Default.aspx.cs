@@ -52,7 +52,7 @@ namespace PaginaWeb
 
             if (!IsPostBack)
             {
-                combo.SelectedValue = "Id";
+                combo.DataValueField = "Id";
                 combo.DataTextField = "Nombre";
                 combo.DataSource = departamentos;
                 combo.DataBind();
